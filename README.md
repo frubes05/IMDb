@@ -1,3 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+IMDb clone made in Next.js version 13.4. using moviedb API.
 
 Link of page: https://imdb-next13.vercel.app/
